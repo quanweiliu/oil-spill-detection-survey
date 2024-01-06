@@ -12,6 +12,9 @@ I will collect all papers on oil detection, especially those with code and datas
 ### Code
 
 ### Dataset
+1. Oil Spill Hyperspectral Remote Sensing Detection Based on DCNN with Multi-Scale Features ( dataset come from Code & dataset 1)
+2. Self-supervised learning-based oil spill detection of hyperspectral images ( dataset come from Code & dataset 2)
+
 
 # SAR
 
