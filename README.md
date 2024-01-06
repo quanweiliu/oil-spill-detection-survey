@@ -10,5 +10,6 @@ I will collect all papers on oil detection, especially those with code and datas
 
 # SAR
 1. Oil Spill Detection with Multiscale Conditional Adversarial Networks with Small-Data Training [code](https://github.com/liyongqingupc/MCAN-OilSpillDetection)
+2. Oil Spill Detection Based on Deep Convolutional Neural Networks Using Polarimetric Scattering Information From Sentinel-1 SAR Images [code](https://github.com/RS-xjg/oil-spill-detection)
 
 
