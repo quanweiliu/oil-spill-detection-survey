@@ -22,7 +22,7 @@ I will collect all papers on oil detection, especially those with code and datas
 1. Oil Spill Detection with Multiscale Conditional Adversarial Networks with Small-Data Training [code](https://github.com/liyongqingupc/MCAN-OilSpillDetection)
 2. Multifeature Semantic Complementation Network for Marine Oil Spill Localization and Segmentation Based on SAR Images[code](https://github.com/fjc1575/Marine-Oil-Spill)
 3. Multitask GANs for Oil Spill Classification and Semantic Segmentation Based on SAR Images [code](https://github.com/fjc1575/Marine-Oil-Spill)
-4. Detection of Oil Spill Using SAR Imagery Based on AlexNet Model [code](https://github.com/fjc1575/Marine-Oil-Spill
+4. Detection of Oil Spill Using SAR Imagery Based on AlexNet Model [code](https://github.com/fjc1575/Marine-Oil-Spill)
 5. OIL SPILL SEGMENTATION USING DEEP ENCODER-DECODER MODELS [code](https://github.com/AbhishekRS4/HTSM_Oil_Spill_Segmentation)
 
 
